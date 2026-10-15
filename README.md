@@ -26,14 +26,13 @@
 </p>
 ---
 
-### 📊 GitHub Stats & Metrics
+### 📊 GitHub Stats & Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhan-stacks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-stacks&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Total_Repos-15%2B-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+  <img src="https://img.shields.io/badge/Main_Language-JavaScript_%2F_React-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Language" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-38B2AC?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/AI_Integrations-Python_%2F_Gemini-FF6F61?style=for-the-badge&logo=google&logoColor=white" alt="AI" />
 </p>
 
 ---
@@ -41,7 +40,6 @@
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://github.com/subhan-stacks">
-  <a href="https://www.linkedin.com/in/subhan-shiekh12345/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
