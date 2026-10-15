@@ -1,18 +1,31 @@
-<h1 align="center">Hi There, I'm Muhammad Subhan Ahmad 👋</h1>
-<h3 align="center">A Passionate Full-stack Developer & AI  integration specialist from Pakistan 🇵🇰</h3>
+<h1 align="center">Hi There, I'm Subhan Ahmad 👋</h1>
+<h3 align="center">A Passionate Full-stack Developer | AI  integration specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhan-stacks&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile_Views-Active-blueviolet?style=flat-square&logo=github&logoColor=white" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=flat-square" alt="Portfolio" />
 </p>
-
 ---
 
 ### 👨‍💻 About Me
-* 🔭 I’m currently working on building modern, responsive web applications and interactive UI/UX designs.
-* 🌱 I’m constantly exploring advanced **React**, **Tailwind CSS**, and **Firebase** backend integrations with AI integrations for Best results.
-* ⚡ Fun fact: I love automating workflows and building custom AI-powered desktop assistants using Python and Gemini API!
+I'm a BBIT student at Virtual University of Pakistan, passionate about building modern, responsive, and user-friendly web applications.
 
+🔭 Working on responsive web applications
+🌱 Learning modern frontend and backend development
+💡 Interested in AI integrations, Web Development, UI/UX, and Data Analysis
+🎯 Goal: Build real-world projects and grow as a developer
+
+<a href="https://subhan-decode.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  
+<!-- Email Button (Backend par mailto link attached hai) -->
+  <a href="mailto:shiekhsubhan62@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  
 ---
 
 ### 🛠️ Tech Stack & Tools
