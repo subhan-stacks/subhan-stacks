@@ -17,7 +17,7 @@ I'm a BBIT student at Virtual University of Pakistan, passionate about building 
 🎯 Goal: Build real-world projects and grow as a developer
 
 <a href="https://subhan-decode.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="🌐" alt="Portfolio" />
   </a>
   
 <!-- Email Button (Backend par mailto link attached hai) -->
