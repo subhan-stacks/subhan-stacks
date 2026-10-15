@@ -9,19 +9,24 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a BBIT student at Virtual University of Pakistan, passionate about building modern, responsive, and user-friendly web applications.
+I'm a BBIT student at Virtual University of Pakistan, passionate about building modern, responsive, and user-friendly web apps and Designs.
 
 🔭 Working on responsive web applications
+
 🌱 Learning modern frontend and backend development
+
 💡 Interested in AI integrations, Web Development, UI/UX, and Data Analysis
+
 🎯 Goal: Build real-world projects and grow as a developer
+
 🌐 Portfolio:
 <a href="https://subhan-decode.vercel.app/" target="_blank">
  Visit My Website</a>
   
 <!-- Email Button (Backend par mailto link attached hai) -->
+📧 Email
   <a href="mailto:shiekhsubhan62@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    Contact Me
   </a>
 
   
