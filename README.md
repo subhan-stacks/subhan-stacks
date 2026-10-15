@@ -29,11 +29,21 @@
 ### 📊 GitHub Stats & Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Repos-15%2B-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
-  <img src="https://img.shields.io/badge/Main_Language-JavaScript_%2F_React-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Language" />
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-38B2AC?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Role-Full_Stack_Developer-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" alt="Role" />
+  <img src="https://img.shields.io/badge/Core_Language-JavaScript_%2F_React-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Language" />
+  <img src="https://img.shields.io/badge/UI/UX-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="UI" />
   <img src="https://img.shields.io/badge/AI_Integrations-Python_%2F_Gemini-FF6F61?style=for-the-badge&logo=google&logoColor=white" alt="AI" />
 </p>
+
+---
+
+
+---
+
+### 🚀 What I'm Building & Working On
+* **Interactive Portfolios & Web Apps:** Developing responsive, high-performance web applications deployed on Netlify.
+* **AI Chatbots & Assistants:** Integrating Gemini API and building custom desktop tools for smart workflow management.
+* **Database Management:** Handling secure data storage and real-time updates using Firebase Firestore.
 
 ---
 
