@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, I'm Subhan Ahmad 👋</h1>
-<h3 align="center">A Passionate Full-stack Developer | AI  integration specialist</h3>
+<h3 align="center">A Passionate Full-stack Developer | AI  integration specialistyyy</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile_Views-Active-blueviolet?style=flat-square&logo=github&logoColor=white" alt="Profile Views" />
