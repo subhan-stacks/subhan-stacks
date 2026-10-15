@@ -15,10 +15,9 @@ I'm a BBIT student at Virtual University of Pakistan, passionate about building 
 🌱 Learning modern frontend and backend development
 💡 Interested in AI integrations, Web Development, UI/UX, and Data Analysis
 🎯 Goal: Build real-world projects and grow as a developer
-
+🌐 Portfolio:
 <a href="https://subhan-decode.vercel.app/" target="_blank">
-    <img src="🌐" alt="Portfolio" />
-  </a>
+ Visit My Website</a>
   
 <!-- Email Button (Backend par mailto link attached hai) -->
   <a href="mailto:shiekhsubhan62@gmail.com">
